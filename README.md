@@ -58,6 +58,9 @@ Thanks goes to these wonderful people ✨✨:
 <a href="https://github.com/techakhil-me/whiteboard/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=techakhil-me/whiteboard" />
 </a>
+<a href="https://github.com/DCtron-lab/whiteboard/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DCtron-lab/whiteboard" />
+</a>
 
 <hr>
 <br>
